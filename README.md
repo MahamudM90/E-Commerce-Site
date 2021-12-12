@@ -1,2 +1,2 @@
 # E-Commerce-Site
-This is E-Commerce Site Front-End Design.
+This is An E-Commerce Site of Front-End Design.
